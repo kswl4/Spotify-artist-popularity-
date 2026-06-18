@@ -105,7 +105,7 @@ genre_popularity = genre_popularity.sort_values(ascending=False).head(15)
 - These three genres dominate the top of the popularity rankings
 - Niche genres consistently score lower on average popularity
 
-![Genre Popularity](charts/genre_popularity.png)
+![Genre Popularity](https://github.com/kswl4/Spotify-artist-popularity-/blob/main/genre_popularity.png)
 
 ---
 
