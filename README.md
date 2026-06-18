@@ -89,7 +89,7 @@ df_clean['is_popular'] = df_clean['track_popularity'] >= threshold
 - Danceability, valence, and tempo show smaller but consistent differences
 - Acoustic tracks tend to be less popular overall
 
-![Audio Features](charts/audio_features.png)
+![Audio Features](https://github.com/kswl4/Spotify-artist-popularity-/blob/main/audio_features.png)
 
 ---
 
