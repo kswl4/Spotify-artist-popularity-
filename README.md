@@ -73,7 +73,7 @@ sns.scatterplot(data=df_clean.sample(5000),
 - Artists with more followers consistently score higher on Spotify's popularity metric
 - Growing an audience is the single biggest driver of popularity score
 
-![Followers vs Popularity](charts/followers_vs_popularity.png)
+![Followers vs Popularity](https://github.com/kswl4/Spotify-artist-popularity-/blob/main/followers_vs_popularity.png)
 
 ---
 
