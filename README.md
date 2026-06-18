@@ -52,7 +52,7 @@ df_clean = df_clean[df_clean['followers'] > 0]
 | **After** | 273,349 |
 
 ![Before Cleaning](https://github.com/kswl4/Spotify-artist-popularity-/blob/main/Screenshot%202026-06-17%20at%2010.23.20%20PM.png)
-![After Cleaning](charts/after_cleaning.png)
+![After Cleaning](https://github.com/kswl4/Spotify-artist-popularity-/blob/main/Screenshot%202026-06-17%20at%2010.23.58%20PM.png)
 
 ---
 
